@@ -21,7 +21,7 @@ Project Demo Link - https://micromadhur.github.io/future-ready-talent/
 
 Project Demo Video Link – 
 
-Project Git Repository - 
+Project Git Repository - https://github.com/micromadhur/future-ready-talent.git
 
 Project Link Through Azure - https://green-grass-0d2c89b00.5.azurestaticapps.net
 
