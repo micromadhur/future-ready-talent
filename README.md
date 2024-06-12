@@ -15,6 +15,8 @@ This web-based application has been developed for the accomplishment of Future R
 To address these challenges, we aim to develop a comprehensive sports community platform with integrated chatbot functionality. The platform will serve as a one-stop solution, providing access to trained professionals, fostering community engagement among different age groups, and offering instant access to sports-related information through a user-friendly chatbot interface.
 We have developed a website using HTML, CSS, JavaScript, bootstrap and Azure Portal that serves as an online platform for sports enthusiasts. 
 
+# Disclamier:- 
+This website is just a static website and the backend of this is not developed. because of this bo backend funtionality and no database is added in thius project, kindly take care of this note please.
  
 # URL Link:-
 Project Demo Link - https://micromadhur.github.io/future-ready-talent/
@@ -125,5 +127,6 @@ Ritik Sharma: https://github.com/ritikrudra
 
 Aashi Vishwakarma: https://github.com/AashiVishwakarma
 
-Contact:
+# Contact:
+
 E-mail - Madhursahu9233@outlook.com
