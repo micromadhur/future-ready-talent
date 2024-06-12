@@ -17,7 +17,7 @@ We have developed a website using HTML, CSS, JavaScript, bootstrap and Azure Por
 
  
 # URL Link:-
-Project Demo Link - 
+Project Demo Link - https://micromadhur.github.io/future-ready-talent/
 
 Project Demo Video Link – 
 
