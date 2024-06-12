@@ -21,7 +21,7 @@ This website is just a static website and the backend of this is not developed. 
 # URL Link:-
 Project Demo Link - https://micromadhur.github.io/future-ready-talent/
 
-Project Demo Video Link – 
+Project Demo Video Link – https://youtu.be/4jQRxQLcyU8
 
 Project Git Repository - https://github.com/micromadhur/future-ready-talent.git
 
