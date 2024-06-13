@@ -2,8 +2,12 @@
         NAME :- YACHTSPORT CLUB
         INDUSTRY :- LIFESTYLE
 
-# Project Title - 
-  One Place to Find Your Trainer
+# Technologies Used :-
+  1. HTML
+  2. CSS
+  3. JAVASCRIPT
+
+# Project Title - One Place to Find Your Trainer
 
 # Problem Statement:-
 
@@ -15,10 +19,8 @@ This web-based application has been developed for the accomplishment of Future R
 To address these challenges, we aim to develop a comprehensive sports community platform with integrated chatbot functionality. The platform will serve as a one-stop solution, providing access to trained professionals, fostering community engagement among different age groups, and offering instant access to sports-related information through a user-friendly chatbot interface.
 We have developed a website using HTML, CSS, JavaScript, bootstrap and Azure Portal that serves as an online platform for sports enthusiasts. 
 
-# Disclamier:- 
-This website is just a static website and the backend of this is not developed. because of this bo backend funtionality and no database is added in thius project, kindly take care of this note please.
- 
 # URL Link:-
+
 Project Demo Link - https://micromadhur.github.io/future-ready-talent/
 
 Project Demo Video Link – https://youtu.be/4jQRxQLcyU8
@@ -27,11 +29,6 @@ Project Git Repository - https://github.com/micromadhur/future-ready-talent.git
 
 Project Link Through Azure - https://green-grass-0d2c89b00.5.azurestaticapps.net
 
-# Technologies Used :-
-  1. HTML
-  2. CSS
-  3. JAVASCRIPT
-     
 # Core Page:
 In the competitive digital landscape of sports media, providing timely and personalized assistance to users is crucial for enhancing user experience and engagement. To address this, Our Yacht Sports Website aims to integrate a chatbot on its home page. 
 Chatbot: By providing real-time assistance, personalized content, and interactive features, the chatbot will play a pivotal role in creating a more engaging and user-friendly experience, ultimately contributing to the website's growth and success.
@@ -114,6 +111,10 @@ The integration of the sports games and other followed modules will significantl
 
 # Azure Services
   ![Screenshot 2024-06-12 114030](https://github.com/micromadhur/future-ready-talent/assets/171539019/b6ed42a2-90ff-44ef-8cc6-4a2efc763a9f)
+
+# Disclamier:- 
+
+This website is just a static website and the backend of this is not developed. because of this bo backend funtionality and no database is added in thius project, kindly take care of this note please.
 
 
 
